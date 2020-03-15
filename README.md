@@ -22,3 +22,7 @@ create [index.html](index.html)
 update [index.html](index.html)
 
 # Custom style
+
+add link to google fonts in [index.html](index.html)
+
+create [styles.css](css/styles.css)
