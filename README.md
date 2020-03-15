@@ -28,3 +28,11 @@ add link to google fonts in [index.html](index.html)
 create [styles.css](css/styles.css)
 
 # workshop
+
+## Task 1
+
+create [aboutus.html](aboutus.html)
+
+## Task 2
+
+final [aboutus.html](aboutus.html)
